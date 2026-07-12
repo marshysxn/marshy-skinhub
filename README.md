@@ -6,8 +6,10 @@ if a skin is not here, comment and I'll get it fixed as soon as possible
 
 follow me on my socials:
 
-https://www.instagram.com/marshysxn/
+* [**instagram**](https://www.instagram.com/marshysxn/)
 
-https://www.tiktok.com/@marshysxn
+* [**tiktok**](https://www.tiktok.com/@marshysxn)
 
-https://x.com/marshysxn
+* [**twitter**](https://x.com/marshysxn)
+
+* [**twitch**](https://www.twitch.tv/marshysxn)
