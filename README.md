@@ -1,6 +1,10 @@
-# marshy-skinhub
-a bunch of skins with marshy edits - dm if you want your own!
+# marshysxn's skinhub
 
-hello, welcome to my skinhub! here i have download links for a bunch of skins - some edited by me and some not.
+if you find a skin that I used in a reel/tiktok, it will most likely be here to download
 
-if you would like a skin taken down, please message me at @marshyvakss on twitter, ill make sure to take it down as soon as requested.
+if a skin is not here, comment and I'll get it fixed as soon as possible
+
+follow me on my socials:
+https://www.instagram.com/marshysxn/
+https://www.tiktok.com/@marshysxn
+https://x.com/marshysxn
