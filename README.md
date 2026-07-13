@@ -27,7 +27,7 @@ aim/consistency skin mainly; blue cursor with clacky hitsounds and no followpoin
 </p>
 
 # [!! marshy edit](https://cdn.discordapp.com/attachments/1105077816288088137/1526199495417790584/marshy_edit.osk?ex=6a56278b&is=6a54d60b&hm=ee0e7da2fc9cfce0b03bdaae0f003fc7e6e10946b5e636c99fa11cfe1f8e606d&)
-the og; regular aristia with rektygon ui and freedom dive cursor (fail sound is loud be aware)
+the og; regular aristia with rektygon ui, custom healthbar and freedom dive cursor (fail sound is loud be aware)
 <p align="center">
   <img src="./assets/marshy edit.jpg" width="1000" alt="Preview for !! marshy edit">
 </p>
