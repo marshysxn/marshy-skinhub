@@ -19,7 +19,7 @@ follow me on my socials!
 * [**twitch**](https://www.twitch.tv/marshysxn)
 
 # [- planets marshy edit](https://cdn.discordapp.com/attachments/1105077816288088137/1526199240026751088/-_planets_marshy_edit.osk?ex=6a56274e&is=6a54d5ce&hm=66fed12e7a4378b3d6739da457a19d5880a2a5b060a90b9f992f72f24ad79338&)
-my go-to stream skin; i edited the hitsounds to be more clacky (from dtmc skin) and removed healthbar
+my go-to skin for streams/tapping; i edited the hitsounds to be more clacky (from dtmc skin) and removed healthbar
 <p align="center">
   <img src="./assets/planets.jpg" width="1000" alt="Preview for Planets">
 </p>
@@ -31,7 +31,7 @@ aim/consistency skin mainly; blue cursor with clacky hitsounds and no followpoin
 </p>
 
 # [!! marshy edit](https://cdn.discordapp.com/attachments/1105077816288088137/1526199495417790584/marshy_edit.osk?ex=6a56278b&is=6a54d60b&hm=ee0e7da2fc9cfce0b03bdaae0f003fc7e6e10946b5e636c99fa11cfe1f8e606d&)
-the og; regular aristia with rektygon ui, custom healthbar and freedom dive cursor (fail sound is loud be aware)
+the og; regular aristia with rektygon/monko ui, custom healthbar and freedom dive cursor (fail sound is loud be aware)
 <p align="center">
   <img src="./assets/marshy edit.jpg" width="1000" alt="Preview for !! marshy edit">
 </p>
