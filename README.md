@@ -2,7 +2,9 @@
 
 A collection of osu! skins that I have edited and/or use daily.
 
-If you find a skin that I used in a reel/tiktok, it will most likely be here to download
+If you find a skin that I used in a reel/tiktok, it will most likely be here to download.
+
+If one of the links does not work anymore, all the skins will also be available in the skins directory up, just click on skins as shown in the screenshot:
 
 follow me on my socials!
 
