@@ -18,6 +18,12 @@ follow me on my socials!
 
 * [**twitch**](https://www.twitch.tv/marshysxn)
 
+# [-  marshy zady edit](https://cdn.discordapp.com/attachments/1105077816288088137/1528452317182169218/-_marshy_zady_edit.osk?ex=6a5e59a5&is=6a5d0825&hm=0b4d947716d6d1e90e7624513273784974a2e304df8745f9a4cdceaaf393f4c2&)
+lowkey my new fav skin; i use this for higher bpm maps and flow maps - uses zadymiarz elements with arial numbers and other misc ui (will make an updated version when i wanna open photoshop)
+<p align="center">
+  <img src="./assets/zady edit.jpg" width="1000" alt="Preview for marshy zady edit">
+</p>
+
 # [- planets marshy edit](https://cdn.discordapp.com/attachments/1105077816288088137/1526199240026751088/-_planets_marshy_edit.osk?ex=6a56274e&is=6a54d5ce&hm=66fed12e7a4378b3d6739da457a19d5880a2a5b060a90b9f992f72f24ad79338&)
 my go-to skin for streams/tapping; i edited the hitsounds to be more clacky (from dtmc skin) and removed healthbar
 <p align="center">
